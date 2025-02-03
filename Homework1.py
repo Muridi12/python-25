@@ -1,3 +1,4 @@
+# The room is 10 feet by 7 Feet
 length = 10
 width = 7
 perimter = 2*(length+width)
